@@ -7,12 +7,10 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Text;
-using SWIFTFramework;
-using SWIFTFramework.Validation;
-using SWIFTFramework.Messages.Category7;
 using System.Windows.Forms;
 using System.Collections.Specialized;
 using System.Text.RegularExpressions;
+
 public class SwiftMessage
 {
     public string NetworkDeliveryStatus { get; set; }
